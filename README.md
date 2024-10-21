@@ -96,27 +96,6 @@ LOGIN WITH USERNAME OR EMAIL ADDRESS
 >   * Password: tempP@ss123
 
 
-## Documentation
-
-*   [Overview of QuickApp](https://www.ebenmonney.com/quickapp)
-*   [Conceptual overview of what is ASP.NET Core](https://go.microsoft.com/fwlink/?LinkId=518008)
-*   [Working with Data](https://docs.microsoft.com/en-us/ef/#pivot=efcore)
-*   [Angular 17 documentation overview](https://angular.io/guide/quickstart)
-*   [Getting started with Angular CLI](https://cli.angular.io)
-*   [Introduction to Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction)
-
-
-## Contribution
-
-QuickApp is actively maintained on [GitHub](https://github.com/emonney/QuickApp). You can support it by
-*   [Sponsoring on GitHub](https://github.com/sponsors/emonney)
-*   Encouraging the developers by [rating it](https://marketplace.visualstudio.com/items?itemName=adentum.QuickApp-ASPNETCoreAngularXProjectTemplate#review-details) and [starring it](https://github.com/emonney/QuickApp)
-*   Submitting your changes/improvements/features using pull requests
-*   Suggesting ideas or areas of improvements
-*   Linking to it and recommending it to others
-
-
-## License
 
 Released under the [MIT License](https://github.com/emonney/QuickApp/blob/master/LICENSE).
 
