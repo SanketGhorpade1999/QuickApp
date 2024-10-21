@@ -1,5 +1,4 @@
 # **QuickApp** - ASPNET Core 8 / Angular 17 project template
-[![MIT license](https://cdn.rawgit.com/emonney/tempa/7e9d69ad/MITLicense.png)](https://github.com/emonney/QuickApp/blob/master/LICENSE)
 [![VSIX Downloads](https://img.shields.io/visual-studio-marketplace/d/adentum.QuickApp-ASPNETCoreAngularXProjectTemplate)](https://marketplace.visualstudio.com/items?itemName=adentum.QuickApp-ASPNETCoreAngularXProjectTemplate)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kommand?style=social)](https://twitter.com/kommand)
 
@@ -11,10 +10,6 @@ As well as other common functionalities for **Quick Application Development**.
 💥QuickApp is designed to be easy to use, customize, and extend. It follows the best practices and conventions of Angular and ASP.NET Core, and uses the latest technologies and tools for an efficient workflow.
 
 🎉QuickApp has been used by thousands of developers🧑🏼‍💻 around the world to create web applications for various domains and purposes. It is highly rated with positive reviews on the Visual Studio Marketplace website.
-
-💝If you've found QuickApp helpful, kindly consider [becoming a sponsor](https://github.com/sponsors/emonney) . Even a small amount goes a long way to keep the project alive.
-
-👍🏼As a [sponsor](https://github.com/sponsors/emonney) you will gain access to the private repos of **QuickApp Pro** and **QuickApp Standard** which have more advanced features, and also priority email support.
 
 [LIVE DEMO](https://quickapp-standard.azurewebsites.net)
 
@@ -31,9 +26,6 @@ ___
 [Get QuickApp PRO](https://www.ebenmonney.com/product/quickapp-pro) | [Live Demo](http://quickapp-pro.ebenmonney.com/)
 
 [Get QuickApp STANDARD](https://www.ebenmonney.com/product/quickapp-standard) | [Live Demo](http://quickapp-standard.ebenmonney.com/)
-
-[Sponsor this project](https://github.com/sponsors/emonney) and get access to the private repos of QuickApp Pro and QuickApp Standard!
-___
 
 
 
